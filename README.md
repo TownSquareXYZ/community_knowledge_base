@@ -26,6 +26,10 @@
 
 Telegram和TON生态已有大量的资料，我们首先要熟悉和利用这部分。
 
+- [TON中文开发课程 via TownSquare Labs](https://www.bilibili.com/video/BV1Dr421b78f/)
+
+- [FunC Cookbook](https://docs.ton.org/develop/func/cookbook)
+
 ## 贡献者list
 
 这里会列出杰出回答者的github，也是你的Proof Of Reputation。
